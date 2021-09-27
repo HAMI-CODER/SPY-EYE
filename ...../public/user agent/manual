@@ -1,0 +1,117 @@
+{
+  "parse": {
+    "simple_software_string": "Chrome 92 on macOS (High Sierra)",
+    "simple_sub_description_string": null,
+    "simple_operating_platform_string": null,
+    "software": "Chrome 92",
+    "software_name": "Chrome",
+    "software_name_code": "chrome",
+    "software_version": "92",
+    "software_version_full": [
+      "92",
+      "0",
+      "4515",
+      "107"
+    ],
+    "operating_system": "macOS (High Sierra)",
+    "operating_system_name": "macOS",
+    "operating_system_name_code": "macos",
+    "operating_system_flavour": null,
+    "operating_system_flavour_code": null,
+    "operating_system_version": "High Sierra",
+    "operating_system_version_full": [
+      "10",
+      "13",
+      "6"
+    ],
+    "operating_system_frameworks": [],
+    "operating_platform": null,
+    "operating_platform_code": null,
+    "operating_platform_code_name": null,
+    "operating_platform_vendor_name": null,
+    "extra_info": {},
+    "detected_addons": [],
+    "capabilities": [],
+    "extra_info_dict": {},
+    "layout_engine_name": "Blink",
+    "layout_engine_version": [],
+    "software_type": "browser",
+    "software_sub_type": "web-browser",
+    "hardware_type": "computer",
+    "hardware_sub_type": null,
+    "hardware_sub_sub_type": null,
+    "is_abusive": false,
+    "is_restricted": false,
+    "is_spam": false,
+    "is_weird": false,
+    "is_weird_reason_code": null,
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
+  },
+  "sanitization": {
+    "user_agent_sanitized": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
+  },
+  "version_check": {
+    "is_checkable": true,
+    "is_up_to_date": true,
+    "latest_version": [
+      "92",
+      "0",
+      "4515",
+      "107"
+    ],
+    "download_url": "https://www.google.com/chrome/",
+    "update_url": "https://www.whatismybrowser.com/guides/how-to-update-your-browser/chrome",
+    "release_date": "2021-07-21",
+    "hours_released_ago": 145
+  },
+  "result": {
+    "code": "success",
+    "message_code": "user_agent_parsed",
+    "message": "The user agent was parsed successfully."
+  },
+  "user_agent_metadata": {
+    "times_seen": 327,
+    "first_seen_at": "2021-07-19 17:33:26",
+    "last_seen_at": "2021-07-26 23:00:51"
+  }
+}
+See more examples
+Constantly developed
+We are always adding and refining our user agent parser based on the millions of user agents we collect and analyse
+
+Advanced issue detection
+User agents can be faked, modified, and mangled. We've got dozens of ways of identifying conflicting or incorrect fragments in user agents, to help identify possible fraud or fake requests
+
+No libraries to update
+You no longer need to maintain anything; with the API, you're always getting the latest and best detection
+
+Trusted and used by:
+ancestry.com
+Campaign Monitor
+Twitter
+Devo
+CIO Pulse
+LUXE City Guides
+Perseus
+Lucror Analytics
+Peppered
+SecurityIQ
+Flayyer
+World Wide Learning Group
+MSP Easy Tools
+Curable
+EFL Global
+YouGov
+Haynes and Company
+Regional Australia Bank
+MyMahi
+Green Climate Fund
+Make Influence
+Onderdelenplanet
+Better Impression
+Vedamo
+Geckotech
+And over a thousand more...
+
+What you get with the API
+User agent parsing
